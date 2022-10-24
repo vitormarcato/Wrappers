@@ -1,7 +1,7 @@
 # Wrappers
 Repositório com o objetivo de praticar conceitos de Wrappers do curso de Java O.O. da Alura
 
-Nessa aula aprendemos que: 
+Nessa aula aprendi que: 
 
 - para cada primitivo existe uma classe chamada Wrapper
 - para guardar um primitivo numa coleção é preciso criar um objeto que embrulha o valor
